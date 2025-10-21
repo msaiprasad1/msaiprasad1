@@ -38,7 +38,7 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 ### 🧩 Professional Experience
 
 #### 🏗️ **Smart Structures LLC | GenAI Engineer / Data Engineer**  
-*Client: U.S. Army Corps of Engineers (May 2025 – Present)*  
+*Client: U.S. Army Corps of Engineers (May 2025 – Sep 2025)*  
 - Designed modular **Prompt Engineering libraries** aligned to SDLC workflows, standardizing AI adoption across teams.  
 - Built **custom multi-agent frameworks** with LangGraph and CrewAI integrated into GitLab pipelines using **MCP Server**.  
 - Led **AI Integration and Developer Enablement** programs for GitLab DUO-style adoption across engineering workflows.  
