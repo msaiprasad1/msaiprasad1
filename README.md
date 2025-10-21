@@ -114,7 +114,6 @@ The system automates ingestion and transformation using **Airflow DAGs** and mon
 - 📊 Enabled **MLflow-based model retraining** for adaptive error correction.  
 - 🚀 Improved ETL reliability by 40% and reduced manual data verification by 25%.  
 
----
 
 #### ☁️ [Hybrid ETL & ML Orchestration Platform](https://github.com/msaiprasad1/Hybrid-ETL-ML-Orchestration-Platform-GitHub-1)  
 > **Tech Stack:** Databricks · FastAPI · Vertex AI · PySpark · GCP  
@@ -128,7 +127,6 @@ This framework supports **end-to-end lifecycle automation** for ML pipelines —
 - 📡 Designed **event-driven ETL** with PySpark and Pub/Sub, ensuring real-time processing scalability.  
 - 🧾 Achieved **30% faster ML pipeline execution** and enhanced model governance efficiency.  
 
----
 
 #### 🏥 [Healthcare Intelligence Pipeline](https://github.com/msaiprasad1/AI-ML-Analytics-Assistant)  
 > **Tech Stack:** PySpark · LangChain · Vertex AI · BigQuery · FastAPI  
@@ -142,7 +140,6 @@ Automated data ingestion, transformation, and contextual inference with **AI-dri
 - 📈 Utilized **Vertex AI** for training and deploying explainable predictive models.  
 - 🔍 Enabled **real-time model interpretability and governance** for clinical analytics dashboards.  
 
----
 ---
 
 ### 📊 Data Analytics Projects
