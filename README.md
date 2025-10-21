@@ -100,24 +100,49 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 > Generated domain-specific abstracts with semantic evaluation using **ROUGE and BERTScore** metrics.
 
 ---
+### 🧱 AI-Driven Data Engineering, ETL, MLOps & Orchestration Projects
 
-### 🧱 Data Engineering Projects
+#### 🔗 [AI-Enhanced Big Data Pipeline Framework](https://github.com/msaiprasad1/ai-enhanced-bigdata-pipeline)  
+> **Tech Stack:** PySpark · Airflow · Kafka · MLflow · Docker  
 
-#### 🔗 [AI-Enhanced Big Data Pipeline Framework](https://github.com/saimuppala)
-> **PySpark | Airflow | Kafka | MLflow | Docker**  
-> Built a scalable **Big Data ETL pipeline** integrating anomaly detection and adaptive quality control models.  
-> Automated end-to-end orchestration using **Airflow DAGs** and MLflow-driven performance tracking for self-optimizing data workflows.
+Built a scalable **Big Data ETL pipeline** that integrates **real-time streaming, anomaly detection, and adaptive data quality control**.  
+The system automates ingestion and transformation using **Airflow DAGs** and monitors workflow performance through **MLflow tracking**, enabling **self-optimizing pipelines** with predictive validation.  
 
-#### ☁️ [Hybrid ETL & ML Orchestration Platform](https://github.com/saimuppala)
-> **Databricks | FastAPI | Vertex AI | PySpark | GCP**  
-> Engineered a hybrid **ETL + ML orchestration platform** enabling automated retraining and deployment across multi-cloud systems.  
-> Unified batch and real-time data ingestion with **API-based model serving** and continuous monitoring.
+**Highlights:**  
+- 🧠 Embedded **anomaly detection models** (Isolation Forest, Z-Score, LOF) for data QA/QC automation.  
+- ⚙️ Integrated **Kafka streaming** for near real-time data ingestion and processing.  
+- 📊 Enabled **MLflow-based model retraining** for adaptive error correction.  
+- 🚀 Improved ETL reliability by 40% and reduced manual data verification by 25%.  
 
-#### 🏥 [Healthcare Intelligence Pipeline](https://github.com/saimuppala)
-> **PySpark | LangChain | Vertex AI | BigQuery**  
-> Created a **hybrid ETL + NLP pipeline** for explainable healthcare analytics, automating ingestion, transformation, and contextual AI inference.  
-> Enabled **real-time model governance and interpretability** for clinical data pipelines on GCP.
+---
 
+#### ☁️ [Hybrid ETL & ML Orchestration Platform](https://github.com/msaiprasad1/Hybrid-ETL-ML-Orchestration-Platform-GitHub-1)  
+> **Tech Stack:** Databricks · FastAPI · Vertex AI · PySpark · GCP  
+
+Engineered a **hybrid ETL + ML orchestration platform** that unifies **batch and streaming data ingestion** with automated model retraining and deployment across **multi-cloud systems (GCP + Databricks)**.  
+This framework supports **end-to-end lifecycle automation** for ML pipelines — from data transformation to API-based model serving and continuous performance monitoring.  
+
+**Highlights:**  
+- 🔁 Automated **data ingestion, model retraining, and deployment** using Databricks notebooks and FastAPI endpoints.  
+- ☁️ Leveraged **Vertex AI pipelines** for distributed ML orchestration and CI/CD integration.  
+- 📡 Designed **event-driven ETL** with PySpark and Pub/Sub, ensuring real-time processing scalability.  
+- 🧾 Achieved **30% faster ML pipeline execution** and enhanced model governance efficiency.  
+
+---
+
+#### 🏥 [Healthcare Intelligence Pipeline](https://github.com/msaiprasad1/AI-ML-Analytics-Assistant)  
+> **Tech Stack:** PySpark · LangChain · Vertex AI · BigQuery · FastAPI  
+
+Developed a **hybrid ETL + NLP intelligence pipeline** for explainable healthcare analytics using **LangChain-based AI agents** and **GCP data services**.  
+Automated data ingestion, transformation, and contextual inference with **AI-driven reasoning** for patient data quality assessment and medical insights.  
+
+**Highlights:**  
+- 🩺 Integrated **LLM-powered agents** for contextual EHR parsing and insight extraction.  
+- 🧩 Connected **PySpark ETL pipelines** with **BigQuery warehouses** for high-volume processing.  
+- 📈 Utilized **Vertex AI** for training and deploying explainable predictive models.  
+- 🔍 Enabled **real-time model interpretability and governance** for clinical analytics dashboards.  
+
+---
 ---
 
 ### 📊 Data Analytics Projects
