@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saimuppala&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/sai-prasad-muppala)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:saiprasad.muppala0226@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?logo=github)](https://github.com/saimuppala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?logo=github)](https://saiprasad-muppala.me/)
 
 ---
 
