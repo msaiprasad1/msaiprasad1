@@ -4,13 +4,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saimuppala&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/sai-prasad-muppala)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:saiprasad.muppala0226@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?logo=github)](https://saiprasad-muppala.me/)
 
 ---
 
 ### 💡 About Me
 
-I’m a **Results-Driven GenAI Engineer** with 7+ years of experience designing and deploying **AI-powered, cloud-native, and data-driven solutions**.  
+I’m a **Results-Driven GenAI Engineer** with 4+ years of experience designing and deploying **AI-powered, cloud-native, and data-driven solutions**.  
 My expertise spans **LLMs (GPT-4, BERT, LLaMA)**, **LangChain | LangGraph | CrewAI**, **RAG pipelines**, and **multi-agent orchestration frameworks** that automate reasoning, analytics, and decision-making.  
 
 I specialize in integrating **AI systems** with **enterprise CI/CD pipelines (MCP Server, GitLab DUO, n8n)** and building **end-to-end ML workflows** across **GCP, AWS, and Oracle Cloud (OCI)**.  
@@ -37,27 +36,22 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 
 ## 🧩 Professional Experience
 
-### 🏦 Synovus — *Gen AI Engineer*  
-📍 **Atlanta, GA** | 🗓️ **Jan 2025 – Present**  
-- 🚀 Developed **LLM-powered enterprise solutions** using Python, OpenAI GPT, LangChain, and AWS Bedrock with **RAG architectures** and **vector databases** (Pinecone, ChromaDB) for intelligent document processing and semantic search, achieving **95% retrieval accuracy**.  
-- ⚙️ Implemented **advanced prompt engineering** and fine-tuned domain-specific LLMs; deployed models in production using **MLOps best practices** ensuring **security, scalability, and low-latency** inference.  
-- 🧠 Built **RESTful APIs and microservices** for AI model serving, collaborated with cross-functional teams to design **AI-driven workflows**, and optimized **CI/CD pipelines** for real-time deployment and monitoring.
 
 ### 🏗️ Smart Structures LLC — *Gen AI Developer (Internship)*  
-💼 **Client: U.S. Army Corps of Engineers** | 📍 **Riviera Beach, FL** | 🗓️ **May 2024 – Dec 2024**  
+💼 **Client: U.S. Army Corps of Engineers** | 📍 **Riviera Beach, FL** | 🗓️ **May 2024 – Oct 2025**  
 - 🤖 Built **AI/NLP applications** with Python, OpenAI, LangChain, and AWS — processing **10K+ documents daily** using **RAG-based intelligent analysis** with **99.9% accuracy**.  
 - 🧩 Created **prompt-engineering workflows**, **embeddings pipelines**, and **vector retrieval systems** to enable contextual document understanding and reasoning.  
 - ☁️ Deployed GenAI solutions in **AWS Cloud**, reducing manual processing time by **40%**, integrated **multi-modal AI**, and supported **agile CI/CD pipelines** for model testing and release.  
 - 💬 Designed **LangChain + Streamlit conversational AI interfaces** for interactive querying and reporting.
 
 ### 🌊 South Florida Water Management District — *Research Data Engineer*  
-📍 **West Palm Beach, FL** | 🗓️ **Jan 2022 – Apr 2024**  
+📍 **West Palm Beach, FL** | 🗓️ **Jan 2024 – Apr 2025**  
 - 💡 Built **NLP pipelines and ML systems** using Python, Transformers, and GCP for **500K+ records**, enabling **automated classification and semantic clustering**.  
 - ⚙️ Designed **FastAPI-based RESTful APIs** for AI model serving and vector search, integrated with **PostgreSQL and BigQuery** for scalable data storage and fast retrieval.  
 - 🧪 Collaborated with hydrologic researchers to apply **AI for environmental insights**, fine-tuned **domain-specific LLMs**, and delivered **real-time EDA dashboards**.  
 
 ### 💼 Deloitte USI — *Data Analyst (AI & Data Engineering Domain)*  
-💼 **Clients:** Gilead Sciences / GovConnect – State of Colorado | 📍 **Hyderabad, India** | 🗓️ **Jun 2017 – Dec 2020**  
+💼 **Clients:** Gilead Sciences / GovConnect – State of Colorado | 📍 **Hyderabad, India** | 🗓️ **Jan 2021 – Dec 2023**  
 - 📊 Developed **ML-powered analytics systems** with Python & Azure ML for **1M+ records**, including NLP-based **text classification** achieving **85%+ model accuracy**.  
 - ⚙️ Built **feature engineering** workflows and **automated ML pipelines** on Azure; deployed predictive models for **business intelligence** and strategic insights.  
 - 🧩 Collaborated with cross-functional data teams for **model tuning, deployment, and monitoring**, improving analytical efficiency across healthcare and government projects.  
@@ -67,7 +61,7 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 ## 🎓 Education
 
 🎓 **Florida Atlantic University** — *M.S. in Data Science & Analytics*  
-📍 **Boca Raton, FL** | 🗓️ **Jan 2021 – Dec 2022**  
+📍 **Boca Raton, FL** | 🗓️ **Jan 2024 – Apr 2025**  
 🎓 *Graduate Research Assistant – AI & Water Data Analytics*  
 📈 **GPA:** 3.93 / 4.0  
 
@@ -213,7 +207,7 @@ Automated data ingestion, transformation, and contextual inference with **AI-dri
 ### 🌱 Let’s Connect!
 💬 I love collaborating on **AI product ideas, GenAI agents, or open-source LLM pipelines.**  
 📧 Reach me at **[saiprasad.muppala0226@gmail.com](mailto:saiprasad.muppala0226@gmail.com)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saiprasad-m) | [Portfolio Projects](https://github.com/saimuppala?tab=repositories)
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-prasad-muppala) | [Portfolio Projects](https://github.com/saimuppala?tab=repositories)
 
 ---
 
