@@ -63,7 +63,7 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 🎓 **Florida Atlantic University** — *M.S. in Data Science & Analytics*  
 📍 **Boca Raton, FL** | 🗓️ **Jan 2024 – Apr 2025**  
 🎓 *Graduate Research Assistant – AI & Water Data Analytics*  
-📈 **GPA:** 3.93 / 4.0  
+📈 **GPA:** 3.89 / 4.0  
 
 ---
 
