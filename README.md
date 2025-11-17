@@ -38,7 +38,7 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 
 
 ### 🏗️ Smart Structures LLC — *Gen AI Developer (Internship)*  
-💼 **Client: U.S. Army Corps of Engineers** | 📍 **Riviera Beach, FL** | 🗓️ **May 2024 – Oct 2025**  
+💼 **Client: U.S. Army Corps of Engineers** | 📍 **Riviera Beach, FL** | 🗓️ **May 2024 – Sep 2025**  
 - 🤖 Built **AI/NLP applications** with Python, OpenAI, LangChain, and AWS — processing **10K+ documents daily** using **RAG-based intelligent analysis** with **99.9% accuracy**.  
 - 🧩 Created **prompt-engineering workflows**, **embeddings pipelines**, and **vector retrieval systems** to enable contextual document understanding and reasoning.  
 - ☁️ Deployed GenAI solutions in **AWS Cloud**, reducing manual processing time by **40%**, integrated **multi-modal AI**, and supported **agile CI/CD pipelines** for model testing and release.  
@@ -51,7 +51,7 @@ Currently advancing **AI-driven developer automation and scientific data intelli
 - 🧪 Collaborated with hydrologic researchers to apply **AI for environmental insights**, fine-tuned **domain-specific LLMs**, and delivered **real-time EDA dashboards**.  
 
 ### 💼 Deloitte USI — *Data Analyst (AI & Data Engineering Domain)*  
-💼 **Clients:** Gilead Sciences / GovConnect – State of Colorado | 📍 **Hyderabad, India** | 🗓️ **Jan 2021 – Dec 2023**  
+💼 **Clients:** Gilead Sciences / GovConnect – State of Colorado | 📍 **Hyderabad, India** | 🗓️ **Jan 2022 – Dec 2023**  
 - 📊 Developed **ML-powered analytics systems** with Python & Azure ML for **1M+ records**, including NLP-based **text classification** achieving **85%+ model accuracy**.  
 - ⚙️ Built **feature engineering** workflows and **automated ML pipelines** on Azure; deployed predictive models for **business intelligence** and strategic insights.  
 - 🧩 Collaborated with cross-functional data teams for **model tuning, deployment, and monitoring**, improving analytical efficiency across healthcare and government projects.  
