@@ -1,224 +1,207 @@
-# 👋 Hey, I'm Sai Prasad M
-🚀 **GenAI Engineer | Multi-Agent Architect | Cloud Data Engineer | AI Innovator**
+# 👋 Hey, I'm **Sai Prasad Muppala**
 
-![Profile Views](https://komarev.com/ghpvc/?username=saimuppala&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/sai-prasad-muppala)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:saiprasad.muppala0226@gmail.com)
+🚀 **Founding AI Engineer | GenAI Engineer | Multi-Agent Architect | Cloud Data Engineer | AI Innovator**
 
----
-
-### 💡 About Me
-
-I’m a **Results-Driven GenAI Engineer** with 4+ years of experience designing and deploying **AI-powered, cloud-native, and data-driven solutions**.  
-My expertise spans **LLMs (GPT-4, BERT, LLaMA)**, **LangChain | LangGraph | CrewAI**, **RAG pipelines**, and **multi-agent orchestration frameworks** that automate reasoning, analytics, and decision-making.  
-
-I specialize in integrating **AI systems** with **enterprise CI/CD pipelines (MCP Server, GitLab DUO, n8n)** and building **end-to-end ML workflows** across **GCP, AWS, and Oracle Cloud (OCI)**.  
-Currently advancing **AI-driven developer automation and scientific data intelligence** at **Smart Structures LLC (U.S. Army Corps of Engineers)** and **South Florida Water Management District**.
+📞 **+1-510-377-1970**  
+📧 **saiprasad.muppala0226@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/sai-prasad-muppala)**  
+💻 **[GitHub](https://github.com/saimuppala)**  
 
 ---
 
-### 🧠 Core Expertise
+## 💡 About Me
+
+I am a **GenAI Engineer & Cloud Data Engineer** with **~5 years of experience** designing and deploying **LLM-driven platforms**, **Agentic AI systems**, **RAG pipelines**, and **enterprise-grade ETL/ML workflows**.
+
+I specialize in **LangGraph | LangChain | CrewAI | Autogen | MCP Server**, multi-agent orchestration, hybrid RAG retrieval, vector search, and production-grade AI system design.
+
+My background spans **Python, PySpark, TensorFlow, PyTorch**, **GCP, AWS, Azure**, **Next.js**, **Docker**, **Airflow**, and **Databricks**.  
+As a **founding engineer**, I build **end-to-end AI products** — spanning **backend, full-stack, cloud, and machine learning infrastructure**.
+
+---
+
+## 🧠 Core Expertise
 
 | Category | Technologies |
-|-----------|---------------|
-| **Languages** | Python, SQL, R, C |
-| **GenAI & LLMs** | GPT-4 (OpenAI), BERT (Google), LLaMA, Claude CLI, Qwen |
-| **Frameworks** | LangChain, LangGraph, CrewAI, Hugging Face Transformers, RAG Pipelines |
-| **Prompt Engineering** | Reusable Prompt Libraries, SDLC Alignment, Context-Chaining, Multi-Agent Prompting, Dynamic Tool Invocation |
-| **AI Agents & Tools** | MCP Server, MCP Protocol, n8n, Bolt.new, Lovable.dev |
-| **ML/DL & MLOps** | TensorFlow, PyTorch, scikit-learn, XGBoost, FastAPI, Streamlit, MLflow |
-| **Data Engineering** | PySpark, Databricks, Hadoop, Kafka, SQL Server, PostgreSQL, cx_Oracle, SSIS |
-| **Cloud & DevOps** | GCP (BigQuery, Dataflow, Vertex AI), AWS (S3, Lambda), OCI, Docker, Kubernetes, Airflow |
-| **Visualization** | Power BI, Tableau, Looker, Matplotlib, Seaborn |
-| **Version Control / Tools** | GitHub Actions, GitLab CI/CD, JIRA, Confluence, Cursor, Windsurf, Postman |
+|---------|--------------|
+| **Languages** | Python, SQL, JavaScript, TypeScript, R, C |
+| **GenAI & LLMs** | GPT-4/5, Claude Sonnet 4.5, Gemini-3-Pro, DeepSeek, LLaMA, Mistral, Qwen |
+| **Agentic AI** | LangChain, LangGraph, CrewAI, Autogen, MCP Server, OpenAI Assistants |
+| **RAG & Vector Search** | Pinecone, FAISS, ChromaDB, Weaviate, Hybrid Search, Semantic Retrieval |
+| **ML/DL** | TensorFlow, PyTorch, scikit-learn, XGBoost |
+| **Data Engineering** | PySpark, Databricks, Airflow, BigQuery, Dataflow, SQL Server, Oracle |
+| **Cloud** | GCP, AWS, Azure, Vertex AI, Cloud Functions, Lambda, ECS |
+| **DevOps & Infra** | Docker, Kubernetes, Terraform/IaC, GitHub Actions, CI/CD |
+| **Monitoring** | Prometheus, Grafana, MLflow, Model Registry |
+| **Full-Stack** | Next.js, React, Tailwind, Streamlit, FastAPI |
+| **Databases** | Postgres, Neon, SQL Server, Oracle, BigQuery, MongoDB |
 
 ---
 
-## 🧩 Professional Experience
+# 🏢 Professional Experience
 
+## 🛰️ **Stealth Startup** — *Founding AI Engineer*  
+📍 Harrison, NJ | 🗓️ **Sep 2025 – Present**  
+**Remote**
 
-### 🏗️ Smart Structures LLC — *Gen AI Developer (Internship)*  
-💼 **Client: U.S. Army Corps of Engineers** | 📍 **Riviera Beach, FL** | 🗓️ **May 2024 – Sep 2025**  
-- 🤖 Built **AI/NLP applications** with Python, OpenAI, LangChain, and AWS — processing **10K+ documents daily** using **RAG-based intelligent analysis** with **99.9% accuracy**.  
-- 🧩 Created **prompt-engineering workflows**, **embeddings pipelines**, and **vector retrieval systems** to enable contextual document understanding and reasoning.  
-- ☁️ Deployed GenAI solutions in **AWS Cloud**, reducing manual processing time by **40%**, integrated **multi-modal AI**, and supported **agile CI/CD pipelines** for model testing and release.  
-- 💬 Designed **LangChain + Streamlit conversational AI interfaces** for interactive querying and reporting.
-
-### 🌊 South Florida Water Management District — *Research Data Engineer*  
-📍 **West Palm Beach, FL** | 🗓️ **Jan 2024 – Apr 2025**  
-- 💡 Built **NLP pipelines and ML systems** using Python, Transformers, and GCP for **500K+ records**, enabling **automated classification and semantic clustering**.  
-- ⚙️ Designed **FastAPI-based RESTful APIs** for AI model serving and vector search, integrated with **PostgreSQL and BigQuery** for scalable data storage and fast retrieval.  
-- 🧪 Collaborated with hydrologic researchers to apply **AI for environmental insights**, fine-tuned **domain-specific LLMs**, and delivered **real-time EDA dashboards**.  
-
-### 💼 Deloitte USI — *Data Analyst (AI & Data Engineering Domain)*  
-💼 **Clients:** Gilead Sciences / GovConnect – State of Colorado | 📍 **Hyderabad, India** | 🗓️ **Jan 2022 – Dec 2023**  
-- 📊 Developed **ML-powered analytics systems** with Python & Azure ML for **1M+ records**, including NLP-based **text classification** achieving **85%+ model accuracy**.  
-- ⚙️ Built **feature engineering** workflows and **automated ML pipelines** on Azure; deployed predictive models for **business intelligence** and strategic insights.  
-- 🧩 Collaborated with cross-functional data teams for **model tuning, deployment, and monitoring**, improving analytical efficiency across healthcare and government projects.  
+- Built a **multi-agent AI platform** for automated evaluation, structured feedback, intelligent document processing, and personalized analytics.
+- Engineered **RAG + Agentic AI pipelines** using **Pinecone, FAISS, Chroma**, enabling rubric-aligned scoring and semantic recommendations.
+- Developed **multi-agent reasoning systems** with **LangGraph, CrewAI, LangChain, MCP Server**, integrating tool-calling agents for evaluation and ranking.
+- Created a **Next.js + Vercel AI SDK dashboard** with real-time chat streaming, evaluation panels, semantic similarity scoring, and personalized insights.
+- Built scalable backends using **Neon Postgres + Drizzle ORM** for embeddings, metadata, scoring outputs, and structured datasets.
+- Integrated advanced AI tools: **Tavily Search, Mathpix OCR, Google Vision, DeepSeek, Claude 4.5, Gemini-3-Pro, OpenAI GPT-5.1**.
+- Designed **CI-driven agent evaluation pipelines** with auditability, RAG traceability, deterministic scoring, and multi-layer semantic retrieval.
 
 ---
 
-## 🎓 Education
+## 🏗️ **Smart Structures LLC — Client: U.S. Army Corps of Engineers**  
+**GenAI Engineer / AI Full-Stack Developer**  
+📍 Riviera Beach, FL | 🗓️ **May 2025 – Aug 2025**
 
-🎓 **Florida Atlantic University** — *M.S. in Data Science & Analytics*  
-📍 **Boca Raton, FL** | 🗓️ **Jan 2024 – Apr 2025**  
-🎓 *Graduate Research Assistant – AI & Water Data Analytics*  
-📈 **GPA:** 3.89 / 4.0  
-
----
-
-### 🏅 Certifications
-
-- 🧠 **Google Cloud Certified – Professional Data Engineer**  
-- ☁️ **Oracle Cloud Infrastructure – AI Foundations 2025 Associate**  
-- 💼 **Deloitte AI Academy Graduate**  
-- 📊 **Microsoft Power BI Data Analyst Associate**  
-- 🔬 **FAU College of Business – Big Data Engineer Certified**  
-- 🧾 **CITI Responsible Conduct of Research (RCR)**  
+- Implemented **RAG pipelines** using GPT/BERT embeddings for semantic extraction, document classification, and rapid comprehension.
+- Deployed AI microservices on **Docker + AWS ECS**, improving concurrency and reducing latency by **25%**.
+- Built **React Native mobile apps** enabling field engineers to access LLM insights.
+- Created Python automation tools for **GIS layouts, SFTP ingestion, dataset synchronization**.
+- Built **desktop utilities (PyInstaller/Tkinter)** reducing QA/QC manual work by **40%**.
+- Managed **cloud IAM, encryption, API security (OAuth2, JWT)**; ensured SOC2/GDPR-aligned data routing.
+- Implemented **unit & integration testing** using **PyTest/Jest**.
+- Added **Prometheus/Grafana monitoring** for real-time observability.
 
 ---
 
-## 🧩 Featured Projects
+## 🌊 **South Florida Water Management District | Florida Atlantic University**  
+**Research Data/ML Engineer**  
+📍 West Palm Beach, FL | 🗓️ **Jan 2024 – Apr 2025**
 
-### 🧠 Generative AI / Agentic AI
-
-#### ⚙️ [Cognitive Multi-Agent Framework for Autonomous Data Analysis](https://github.com/saimuppala)
-> **LangGraph | CrewAI | Autogen | MCP Server | Python**  
-> Designed an **Agentic AI architecture** that enables multi-agent task coordination, automated data validation, and insight synthesis.  
-> Integrated autonomous collaboration across enterprise pipelines for continuous reasoning, context chaining, and decision-making.
-
-#### 🧬 [Healthcare Intelligence Agent for Clinical Knowledge Mining](https://github.com/saimuppala)
-> **CrewAI | GPT-4 | LangChain | Vertex AI | MLflow**  
-> Developed an **Agentic AI system** for EHR mining and clinical knowledge extraction using multi-agent orchestration.  
-> Automated entity recognition, evidence-linked reasoning, and explainable diagnostic insights with full model governance via MLflow.
-
-#### 🧩 [Generative AI Platform for Adaptive Research Summarization](https://github.com/saimuppala)
-> **LangChain | ChromaDB | Claude CLI | RAG Pipelines | Python**  
-> Built a **RAG-based summarization engine** combining vector retrieval and transformer-based synthesis for adaptive research summarization.  
-> Generated domain-specific abstracts with semantic evaluation using **ROUGE and BERTScore** metrics.
-
----
-### 🧱 AI-Driven Data Engineering, ETL, MLOps & Orchestration Projects
-
-#### 🔗 [AI-Enhanced Big Data Pipeline Framework](https://github.com/msaiprasad1/ai-enhanced-bigdata-pipeline)  
-> **Tech Stack:** PySpark · Airflow · Kafka · MLflow · Docker  
-
-Built a scalable **Big Data ETL pipeline** that integrates **real-time streaming, anomaly detection, and adaptive data quality control**.  
-The system automates ingestion and transformation using **Airflow DAGs** and monitors workflow performance through **MLflow tracking**, enabling **self-optimizing pipelines** with predictive validation.  
-
-**Highlights:**  
-- 🧠 Embedded **anomaly detection models** (Isolation Forest, Z-Score, LOF) for data QA/QC automation.  
-- ⚙️ Integrated **Kafka streaming** for near real-time data ingestion and processing.  
-- 📊 Enabled **MLflow-based model retraining** for adaptive error correction.  
-- 🚀 Improved ETL reliability by 40% and reduced manual data verification by 25%.  
-
-
-#### ☁️ [Hybrid ETL & ML Orchestration Platform](https://github.com/msaiprasad1/Hybrid-ETL-ML-Orchestration-Platform-GitHub-1)  
-> **Tech Stack:** Databricks · FastAPI · Vertex AI · PySpark · GCP  
-
-Engineered a **hybrid ETL + ML orchestration platform** that unifies **batch and streaming data ingestion** with automated model retraining and deployment across **multi-cloud systems (GCP + Databricks)**.  
-This framework supports **end-to-end lifecycle automation** for ML pipelines — from data transformation to API-based model serving and continuous performance monitoring.  
-
-**Highlights:**  
-- 🔁 Automated **data ingestion, model retraining, and deployment** using Databricks notebooks and FastAPI endpoints.  
-- ☁️ Leveraged **Vertex AI pipelines** for distributed ML orchestration and CI/CD integration.  
-- 📡 Designed **event-driven ETL** with PySpark and Pub/Sub, ensuring real-time processing scalability.  
-- 🧾 Achieved **30% faster ML pipeline execution** and enhanced model governance efficiency.  
-
-
-#### 🏥 [Healthcare Intelligence Pipeline](https://github.com/msaiprasad1/AI-ML-Analytics-Assistant)  
-> **Tech Stack:** PySpark · LangChain · Vertex AI · BigQuery · FastAPI  
-
-Developed a **hybrid ETL + NLP intelligence pipeline** for explainable healthcare analytics using **LangChain-based AI agents** and **GCP data services**.  
-Automated data ingestion, transformation, and contextual inference with **AI-driven reasoning** for patient data quality assessment and medical insights.  
-
-**Highlights:**  
-- 🩺 Integrated **LLM-powered agents** for contextual EHR parsing and insight extraction.  
-- 🧩 Connected **PySpark ETL pipelines** with **BigQuery warehouses** for high-volume processing.  
-- 📈 Utilized **Vertex AI** for training and deploying explainable predictive models.  
-- 🔍 Enabled **real-time model interpretability and governance** for clinical analytics dashboards.  
+- Built **Agentic AI + RAG workflows** using LangChain, LangGraph, Vertex AI for **automated hydrologic QA/QC**.
+- Developed anomaly detection models (**Isolation Forest, XGBoost, One-Class SVM**) with **35% improved predictive accuracy**.
+- Created the **STA Water Budget Tool** for inflow/outflow, missing data detection, and yearly hydrologic summaries.
+- Designed Python desktop apps (Tkinter, PyInstaller) for **DBHYDRO & WREP QA/QC**.
+- Built a **Hydrology AI Assistant** capable of environmental Q&A using domain RAG.
+- Developed ETL pipelines using **PySpark, SQL Server, Oracle, BigQuery**, enabling forecasting and metadata validation.
+- Integrated **Prometheus/Grafana** for operational monitoring.
 
 ---
 
-### 📊 Data Analytics Projects
+## 🧪 **Deloitte USI — Data Analyst (AI & Data Engineering)**  
+📍 Hyderabad, India | 🗓️ **Jun 2021 – Dec 2023**  
+**Clients: Gilead Sciences | State Gov (CA, CO)**
 
-#### 💧 [Business Insights Dashboard for Water Quality Analytics](https://github.com/saimuppala)
-> **Power BI | Python | BigQuery | SQL**  
-> Built an interactive **Power BI dashboard** integrating Python-based preprocessing to visualize anomalies, rainfall trends, and predictive metrics.  
-> Delivered real-time insights to support environmental quality monitoring and decision-making.
-
-#### 🏥 [Healthcare Data Analysis Platform](https://github.com/saimuppala)
-> **Python | SQL | Pandas | Matplotlib**  
-> Developed end-to-end analytical workflows for healthcare datasets, including data cleaning, feature extraction, and SQL-driven aggregations.  
-> Automated **monthly reporting** pipelines with reproducible EDA scripts and dashboards.
-
-#### 📈 [Automated Statistical Reporting System](https://github.com/saimuppala)
-> **Python | Matplotlib | Pandas | Jinja2 | Excel Automation**  
-> Created an automation tool for descriptive statistics, data extraction, and visualization.  
-> Generated **formatted PDF and Excel reports** for analytics teams using Python-driven pipelines.
+- Engineered **BigQuery, Dataflow, Cloud Composer** pipelines processing **terabytes** of data.
+- Built **PySpark frameworks** for validation, harmonization, feature extraction.
+- Created **Power BI dashboards** for KPIs, anomaly detection, and trends.
+- Designed **data quality frameworks** reducing validation effort by **45%**.
+- Integrated **Salesforce → BigQuery** ETL workflows with optimized SQL tuning.
+- Contributed to ML modeling using **scikit-learn** for exploratory analytics.
+- Designed **Kubernetes + Terraform (IaC)** infra for production workloads.
+- Built **Kafka-based streaming**, optimized caching using **Redis, Redis Streams, Elasticsearch**.
 
 ---
 
-### 🐍 Python Development Projects
+# 🛠️ Technical Skills
 
-#### 🧮 [Desktop Application for Automated Data Insights](https://github.com/saimuppala)
-> **Tkinter | PyInstaller | REST APIs | SQLite | FastAPI**  
-> Developed an **interactive desktop app** for offline analytics and cloud-based API ingestion.  
-> Packaged using **PyInstaller** for enterprise distribution with integrated visualization and report generation.
+### **Programming**
+**Python, SQL, JavaScript, TypeScript, R, C**
 
-#### 🌐 [Flask & Django Web Application for Data Quality Monitoring](https://github.com/saimuppala)
-> **Flask | Django | PostgreSQL | Celery | Docker**  
-> Built a **full-stack data validation and visualization app** with asynchronous background processing using Celery.  
-> Deployed via **Docker containers**, enabling scalable backend operations and responsive dashboards.
+### **GenAI & LLMs**
+**GPT-4/5, Claude Sonnet 4.5, Gemini-3-Pro, DeepSeek, LLaMA, Mistral, Qwen, Embeddings, LoRA/QLoRA**
 
-#### 📚 [Automated Research Summarization Platform](https://github.com/saimuppala)
-> **LangChain | ChromaDB | Claude API | Python | NLP**  
-> Engineered an **AI-driven summarization system** leveraging embeddings and semantic retrieval for long-form research documents.  
-> Integrated **natural language querying** and adaptive prompt generation for real-time research assistance.
+### **Agentic AI**
+**LangChain, LangGraph, CrewAI, Autogen, MCP Server, OpenAI Assistants**
 
----
+### **RAG Pipelines**
+**Pinecone, FAISS, Weaviate, ChromaDB, Hybrid RAG, Reranking, OCR (Mathpix, Google Vision)**
 
-## 🧭 Upcoming Projects
+### **Machine Learning**
+**TensorFlow, PyTorch, XGBoost, scikit-learn, statistics, feature engineering**
 
-- 🧠 **Autonomous Prompt Library System** – A LangChain-based prompt registry with contextual version control and dynamic chaining.  
-- ☁️ **Cloud-Native Multi-Agent Orchestration Engine** – A fully containerized CrewAI + MCP Server deployment pipeline on GCP/AWS.  
-- 💬 **AI Receptionist Agent** – A multi-modal agent with voice synthesis and translation for conversational automation.
+### **Data Engineering**
+**PySpark, Databricks, Airflow, BigQuery, Dataflow, SQL Server, ETL, Data Modeling, Kafka (Production-level)**
 
----
+### **Cloud**
+**GCP, AWS, Azure, Vertex AI, Cloud Functions, Lambda, ECS**
 
----
+### **Infrastructure**
+**Docker, Kubernetes, Terraform (IaC), GitHub Actions, CI/CD, Monitoring (Prometheus, Grafana)**
 
-### ⚙️ My Current Stack
+### **APIs & Security**
+**FastAPI, REST, GraphQL, OAuth2, JWT, Gateway Security**
 
-`Python` · `LangChain` · `LangGraph` · `CrewAI` · `MCP Server` · `FastAPI`  
-`GCP` · `BigQuery` · `Vertex AI` · `Docker` · `Kubernetes` · `Airflow`  
-`Databricks` · `PySpark` · `Power BI` · `n8n` · `GitHub Actions`
+### **Databases**
+**Postgres, Neon, SQL Server, Oracle, BigQuery, MongoDB**
 
----
-
-### 🧭 What I’m Exploring
-- 🤖 **Agentic AI Systems & Multi-Agent Collaboration** (MCP Server, LangGraph, CrewAI)  
-- 🔍 **Autonomous Prompt Libraries** for enterprise SDLC workflows  
-- ⚙️ **RAG-powered APIs & Knowledge Graph Integrations**  
-- 🧩 **GenAI Product Development & AI Consulting** (AIMarkit Labs)
+### **Full-Stack**
+**Next.js, React, Tailwind, Streamlit, FastAPI**
 
 ---
 
-### 🌱 Let’s Connect!
-💬 I love collaborating on **AI product ideas, GenAI agents, or open-source LLM pipelines.**  
-📧 Reach me at **[saiprasad.muppala0226@gmail.com](mailto:saiprasad.muppala0226@gmail.com)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sai-prasad-muppala) | [Portfolio Projects](https://github.com/saimuppala?tab=repositories)
+# 🚀 Featured Projects
+
+## 🔗 **AI-Enhanced Big Data Pipeline Framework**  
+📁 *PySpark · Airflow · Kafka · MLflow*  
+- Automated ETL with anomaly detection (Isolation Forest, LOF).  
+- MLflow-driven retraining for adaptive QA/QC.  
+- Improved ETL reliability by **40%**.
 
 ---
 
-### 📈 GitHub Stats
+## 🏥 **Healthcare Intelligence Pipeline**  
+📁 *Vertex AI · PySpark · FastAPI · CrewAI*  
+- Predictive risk modeling (85% accuracy).  
+- Real-time interactive dashboards (Streamlit).  
+- Integrated multi-agent reasoning for EHR analytics.
+
+---
+
+## 🤖 **AI-ML Analytics Assistant**  
+📁 *LangChain · GPT · scikit-learn*  
+- Automated EDA, ML pipeline building, and natural language querying.  
+- Real-time model deployment via FastAPI.
+
+---
+
+## 🏆 **Maternal Health 3D AI – NIH Hackathon Winner**  
+📁 *OpenCV · Open3D · Intel RealSense*  
+- Built 3D gait analysis, fall detection, posture monitoring system.  
+- Improved maternal risk detection and clinical insights.
+
+---
+
+# 🎓 Education
+
+### **Florida Atlantic University — M.S. in Data Science & Analytics**  
+📍 Boca Raton, FL | **Jan 2024 – Apr 2025**  
+🎓 **GPA: 3.89 / 4.0**  
+🎓 Graduate Research Assistant (AI & Water Data)
+
+---
+
+# 🏅 Certifications
+
+- **Google Cloud – Professional Data Engineer**  
+- **Oracle Cloud Infrastructure – AI Foundations (2025)**  
+- **Deloitte AI Academy Graduate**  
+- **Microsoft Power BI Data Analyst Associate**  
+- **Big Data Engineer Certified**  
+- **CITI – Responsible Conduct of Research (RCR)**  
+
+---
+
+# 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimuppala&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimuppala&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🧠 Quote to Remember
-> “AI doesn’t replace humans — it augments the ones bold enough to integrate it.”
+# 🌱 Let’s Connect!
+
+I love collaborating on **GenAI products, multi-agent systems, LLM engineering, cloud AI pipelines, and end-to-end AI platforms**.
+
+📧 **saiprasad.muppala0226@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/sai-prasad-muppala)**  
+💻 **[GitHub](https://github.com/saimuppala)**  
 
 ---
+
+> *“AI doesn’t replace humans — it augments the ones bold enough to integrate it.”*
