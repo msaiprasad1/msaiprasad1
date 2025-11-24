@@ -5,7 +5,6 @@
 📞 **+1-510-377-1970**  
 📧 **saiprasad.muppala0226@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/sai-prasad-muppala)**  
-💻 **[GitHub](https://github.com/saimuppala)**  
 
 ---
 
