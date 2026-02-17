@@ -2,15 +2,15 @@
 
 🚀 **Founding AI Engineer | GenAI Engineer | Multi-Agent Architect | Cloud Data Engineer | AI Innovator**
 
-📞 **+1-510-377-1970**  
-📧 **saiprasad.muppala0226@gmail.com**  
+📞 **+1-415-470-7299**  
+📧 **saiprasadmuppala2602@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/sai-prasad-muppala)**  
 
 ---
 
 ## 💡 About Me
 
-I am a **GenAI Engineer & Cloud Data Engineer** with **~8 years of experience** designing and deploying **LLM-driven platforms**, **Agentic AI systems**, **RAG pipelines**, and **enterprise-grade ETL/ML workflows**.
+I am a **GenAI Engineer & Cloud Data Engineer** with **~4 years of experience** designing and deploying **LLM-driven platforms**, **Agentic AI systems**, **RAG pipelines**, and **enterprise-grade ETL/ML workflows**.
 
 I specialize in **LangGraph | LangChain | CrewAI | Autogen | MCP Server**, multi-agent orchestration, hybrid RAG retrieval, vector search, and production-grade AI system design.
 
@@ -83,7 +83,7 @@ As a **founding engineer**, I build **end-to-end AI products** — spanning **ba
 ---
 
 ## 🧪 **Deloitte USI — Data Analyst (AI & Data Engineering)**  
-📍 Hyderabad, India | 🗓️ **Jan 2018 – Dec 2023**  
+📍 Hyderabad, India | 🗓️ **Jan 2022 – Dec 2023**  
 **Clients: Gilead Sciences | State Gov (CA, CO)**
 
 - Engineered **BigQuery, Dataflow, Cloud Composer** pipelines processing **terabytes** of data.
